@@ -1,3 +1,5 @@
+<img src="https://github.com/brandonwharton/brandonwharton/blob/d05fed43c4866ed73d701a763b41c8debda17367/GitHub%20Banner.png" alt="banner that says Brandon Wharton">
+
 ### Hi, thanks for visiting my GitHub! 👋
 
 
