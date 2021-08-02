@@ -6,7 +6,7 @@
 #### <div align="center">My name is Brandon, and I'm a full-stack software engineer devoted to making sure my projects are built with the needs of the user kept at the top of mind.</div>  
   
 
-- I'm most familiar with JavaScript with React for the front end and Node.Js/Express for the backend, and am currently dipping my toes into C#.  
+- I'm most familiar with JavaScript with React for the front end and Node.Js/Express for the backend, and have dipped my toes into C#.  
   
 
 <br/>  
